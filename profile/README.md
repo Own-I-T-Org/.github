@@ -6,6 +6,7 @@ Our contribution is in the Digitalisation space. As consultants, we help you ide
 As software engineers and UX designers, we find, integrate and contribute to open source projects in the workflow-BPMN space.
 
 ![Example BPMN workflow](https://raw.githubusercontent.com/Own-I-T-Org/.github/main/diagram.svg)
+Source: [BPMN.io demo page](https://demo.bpmn.io)
 
 ## Current stack (WIP)
 
