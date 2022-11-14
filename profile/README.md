@@ -5,6 +5,8 @@ We have the goal to help small and medium sized companies (e.g., start-ups) to u
 Our contribution is in the Digitalisation space. As consultants, we help you identify and visualize the processes that keep your company running today. Then we develop plans, how software and AI can help you optimize these processes, especially when new constraints enter your business space.
 As software engineers and UX designers, we find, integrate and contribute to open source projects in the workflow-BPMN space.
 
+![Example BPMN workflow](https://raw.githubusercontent.com/Own-I-T-Org/.github/main/diagram.svg)
+
 ## Current stack (WIP)
 
 In most cases we want to use the open source projects around the [Camunda](https://github.com/camunda) space, and contribute to them as well.
