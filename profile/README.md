@@ -45,6 +45,22 @@ To reap these benefits a major step will be to encourage all these projects to
 adapt a multi-sponsor system with democratically voted leadership and
 processes, where they might not have that yet.
 
+## Leadership
+
+We can't really call ourselves "Own IT" and then not also be focused on
+leadership in general.
+
+As leaders we want to be open, collaborative, compete for finding the best
+ideas, and stay at the forefront of innovation. This way our customers,
+partners and associates will know what's going on around us, can learn from us,
+can influence where we are going, can work with us on shared goals, and bring
+in their own best ideas.
+
+For this purpose we want to work with the
+[Open Practice Library](https://github.com/openpracticelibrary), a library of
+open leadership methods, principles and tools. And we want to be an
+[Open Organisation](https://github.com/open-organization).
+
 ## Contact
 
 Reach out to us by creating a [ticket](https://github.com/Own-I-T-Org/.github/issues).
