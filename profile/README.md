@@ -11,8 +11,7 @@ especially when new constraints enter your business space.
 As software engineers and UX designers, we find, integrate and contribute to
 open source projects in the workflow-BPMN space.
 
-![Example BPMN workflow](https://raw.githubusercontent.com/Own-I-T-Org/.github/main/marketing/leadership_mindset.svg)
-Source: [BPMN.io demo page](https://demo.bpmn.io)
+![Example BPMN workflow](https://raw.githubusercontent.com/Own-I-T-Org/.github/main/marketing/leadership_mindset.png)
 
 ## Current stack (v0.2 - WIP)
 
