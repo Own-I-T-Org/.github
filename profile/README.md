@@ -1,3 +1,13 @@
+# Discontinuiation Notice
+
+This org is discontinued in favor of [Share IT Org](https://github.com/ShareIT-Org) and over time all content will be migrated over there.
+
+Reason for this decision is simply that not all interpretations of the word "ownership" are positive.
+For me, the term got introduced into my life in terms of responsibility and taking care of something.
+In other contexts it stands for control, which as a concept I don't really believe in.
+
+To avoid confusion, I will continue the org under the new name.
+
 # Own IT Org
 
 We have the goal to help small and medium sized companies (e.g., start-ups) to
